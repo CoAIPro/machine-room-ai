@@ -153,8 +153,11 @@ See `CONTRIBUTING.md`. Contributions that add patterns, schemas, checklists, or 
 
 ## Maintainers
 
-Srini Gubbala — Anti-Fragile AI Architect
-Santosh M — R&D Software Engineer
+| Name | Role |
+|------|------|
+| Srini Gubbala | Anti-Fragile AI Architect |
+| Santosh M | R&D Software Engineer |
+
 ---
 
 > Governed AI systems need a control room, not just a model.
