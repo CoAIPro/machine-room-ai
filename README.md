@@ -151,6 +151,10 @@ See `LICENSE`. This framework is published as reusable reference architecture.
 
 See `CONTRIBUTING.md`. Contributions that add patterns, schemas, checklists, or worked examples are welcome. Keep all examples generic and free of any production data.
 
+## Maintainers
+
+Srini Gubbala — Anti-Fragile AI Architect
+Santosh M — R&D Software Engineer
 ---
 
 > Governed AI systems need a control room, not just a model.
